@@ -20,7 +20,7 @@ const Row = ({ title, fetchUrl }) => {
     return (
         <div >
             <div className="title">
-              <h2  style={{ color: "black", fontSize: "40px", textAlign:"left",padding:"10px" }}>{title}</h2>
+              <h2  style={{ color: "white", fontSize: "40px", textAlign:"left",padding:"10px" }}>{title}</h2>
             </div>
             <div className="row_poster">
                     {
