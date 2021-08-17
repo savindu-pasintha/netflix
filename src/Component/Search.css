@@ -1,0 +1,20 @@
+.search{
+    border : none;
+    width:30px;
+    height:30px;
+    border-radius:30px;
+    background:white;
+   
+}
+
+.search_row{
+
+}
+
+.search:hover{
+    border : none;
+    width:230px;
+    height:30px;
+    border-radius:30px;
+    background:white;
+}

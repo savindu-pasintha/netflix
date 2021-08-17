@@ -1,3 +1,15 @@
+netfix - clone with react js
+
+TMDB API with get video data
+
+Request api :
+https://api.themoviedb.org/3/movie/550?api_key=be81f71bff803ea3ed0cceb7d6be4eb5
+
+API Read Access Token (v4 auth) :
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiZTgxZjcxYmZmODAzZWEzZWQwY2NlYjdkNmJlNGViNSIsInN1YiI6IjYxMWI0ZWNlYzE0ZmVlMDA0NTMxYmIzYiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.1pm9SlDWTwxo79zlCQ-tNEb4D2DJJ0rbBHtszX1kCtQ
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

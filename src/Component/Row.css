@@ -1,0 +1,22 @@
+.row_poster{
+   width:"100%";
+   height:auto;
+   display: inline-block;
+  }
+
+.row_posters{
+    display: inline-flex;
+    position: relative;
+    transition: transform 0.45ms;
+    margin-right: 10px;
+
+}
+
+.row_posters:hover{
+   transform: scale(1.08);
+   border:2px solid white;
+}
+
+.title{
+    width:"100%";
+}
